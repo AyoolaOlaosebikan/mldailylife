@@ -45,6 +45,7 @@ class Bar extends StatelessWidget {
   }
 }
 
+//bottom bar code
 class BottomBar extends StatelessWidget {
   const BottomBar({super.key});
 
